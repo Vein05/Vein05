@@ -2,7 +2,7 @@
 
 I'm Vein from Nepal. I learn to code whenever I have time.
 
-![Vein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vein05&count_private=true&show_icons=true)
+![Vein's GitHub stats](https://github-readme-stats.vercel.app/api?username=vein05&show_icons=true&card=600&line_height=30&include_all_commits=true&theme=dracula)
 
 ## Streak!
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=vein05&theme=black-ice&hide_border=true&stroke=0000&background=6e7e91)
