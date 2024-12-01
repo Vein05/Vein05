@@ -2,12 +2,33 @@
 
 I'm Vein from Nepal. I learn to code whenever I have time.
 
-![Vein's GitHub stats](https://github-readme-stats.vercel.app/api?username=vein05&show_icons=true&rank_icon=github&include_all_commits=true&theme=dracula)
-![This year](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vein05&theme=tokyonight)
+<!---
+<p><img
+ align="left" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=vein05&langs_count=12&layout=donut"
+ alt="vein05" /></p> */
+-->
+<!--
+<p>&nbsp;<img 
+align="center" 
+src="https://github-readme-stats.vercel.app/api?username=vein05&show_icons=true&locale=en"
+ alt="vein05" /></p>
+ -->
+<!--<p
+ align="left"> <a 
+href="https://github.com/ryo-ma/github-profile-trophy"><img 
+src="https://github-profile-trophy.vercel.app/?username=vein05" 
+alt="vein05" /></a> </p>
+-->
 
-## Languages Used!
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vein05&langs_count=8&layout=donut&theme=dracula)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vein05)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vein05&exclude=jupyter%20Notebook)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vein05&exclude=Jupyter%20Notebook)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vein05)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vein05&utcOffset=1)
 
 ## 💼 Skills
 
