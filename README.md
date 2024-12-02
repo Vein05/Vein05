@@ -21,14 +21,13 @@ src="https://github-profile-trophy.vercel.app/?username=vein05"
 alt="vein05" /></a> </p>
 -->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vein05&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vein05)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vein05&theme=dracula&exclude=jupyter%20Notebook)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vein05&theme=dracula&exclude=Jupyter%20Notebook)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vein05&exclude=jupyter%20Notebook)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vein05&exclude=Jupyter%20Notebook)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vein05)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vein05&utcOffset=-6)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vein05&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vein05&theme=dracula&utcOffset=-6)
 
 ## 💼 Skills
 
