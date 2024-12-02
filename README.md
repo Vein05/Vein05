@@ -1,6 +1,6 @@
 ### Hello there 👋🏻
 
-I'm Vein from Nepal. I learn to code whenever I have time.
+I'm Vein. I learn to code whenever I have time.
 
 <!---
 <p><img
