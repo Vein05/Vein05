@@ -1,6 +1,6 @@
 ### Hello there 👋🏻
 
-I'm Vein(Sugam). I learn to code whenever I have time.
+I'm Vein(Sugam). I learn to code whenever I have time. Please check out the projects I've maintained/contributed to in my pins.
 
 <!---
 <p><img
