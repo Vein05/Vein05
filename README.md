@@ -21,14 +21,6 @@ src="https://github-profile-trophy.vercel.app/?username=vein05"
 alt="vein05" /></a> </p>
 -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vein05&theme=dracula)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vein05&theme=dracula&exclude=jupyter%20Notebook)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vein05&theme=dracula&exclude=Jupyter%20Notebook)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vein05&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vein05&theme=dracula&utcOffset=-6)
-
 ## 💼 Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -42,8 +34,3 @@ alt="vein05" /></a> </p>
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-
-
-
-## Visitor
-![Vein](https://profile-counter.glitch.me/vein05/count.svg)
